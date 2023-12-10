@@ -1,4 +1,4 @@
-const readline = require("realine").createInterface({
+const readline = require("readline").createInterface({
     input: process.stdin,
     output: process.stdout,
 });
